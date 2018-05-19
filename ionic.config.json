@@ -1,0 +1,8 @@
+{
+  "name": "tournament",
+  "app_id": "806dfdea",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
